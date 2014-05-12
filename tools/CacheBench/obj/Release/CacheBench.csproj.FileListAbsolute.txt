@@ -1,0 +1,17 @@
+C:\workspace\libcache\tools\CacheBench\bin\Release\CacheBench.exe.config
+C:\workspace\libcache\tools\CacheBench\bin\Release\CacheBench.exe
+C:\workspace\libcache\tools\CacheBench\bin\Release\CacheBench.pdb
+C:\workspace\libcache\tools\CacheBench\bin\Release\Kontur.Cache.dll
+C:\workspace\libcache\tools\CacheBench\bin\Release\NDesk.Options.dll
+C:\workspace\libcache\tools\CacheBench\bin\Release\ServiceStack.Common.dll
+C:\workspace\libcache\tools\CacheBench\bin\Release\ServiceStack.Interfaces.dll
+C:\workspace\libcache\tools\CacheBench\bin\Release\ServiceStack.Redis.dll
+C:\workspace\libcache\tools\CacheBench\bin\Release\ServiceStack.Text.dll
+C:\workspace\libcache\tools\CacheBench\bin\Release\Kontur.Cache.pdb
+C:\workspace\libcache\tools\CacheBench\bin\Release\ServiceStack.Common.xml
+C:\workspace\libcache\tools\CacheBench\bin\Release\ServiceStack.Interfaces.xml
+C:\workspace\libcache\tools\CacheBench\bin\Release\ServiceStack.Redis.xml
+C:\workspace\libcache\tools\CacheBench\bin\Release\ServiceStack.Text.xml
+C:\workspace\libcache\tools\CacheBench\obj\Release\CacheBench.csprojResolveAssemblyReference.cache
+C:\workspace\libcache\tools\CacheBench\obj\Release\CacheBench.exe
+C:\workspace\libcache\tools\CacheBench\obj\Release\CacheBench.pdb
